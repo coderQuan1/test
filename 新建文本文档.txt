@@ -1,0 +1,1 @@
+在store中 访问自己的数据不需要使用this。在组件中模板使用数据时不需要使用this，在option中的methods等使用组件数据需要使用this
